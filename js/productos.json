@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo Azul",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo Hombre",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo Gris",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo Negro",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Abrigo Sport",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 900
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Azul",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 725
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta B",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Playa",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 525
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Roja",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 350
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Cafe",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 350
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Rosa",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 350
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Verde",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta C",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón 01",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón 02",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1050
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 975
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1025
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón 05",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
